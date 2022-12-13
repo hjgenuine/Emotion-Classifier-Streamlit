@@ -12,4 +12,4 @@
 * Joblib - For exporting the model
 
 ## Preview:
-https://emotion-classifier-f7wa.onrender.com/
+https://hjgenuine-emotion-classifier-streamlit-app-2cnw9g.streamlit.app/
