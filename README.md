@@ -1,4 +1,15 @@
 # Emotion-Classifier-Streamlit
-Emotion Classification ML Web Application was created using Python3.
+## Model Algorithm:
+[Support vector machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 
-# Preview: https://emotion-classifier-f7wa.onrender.com/
+## Libraries:
+* Streamlit - For creating the web app
+* ScikitLearn - For creating the model
+* Pandas - For loading the data
+* Numpy - For working with the data
+* Matplotlib - For plotting
+* Neattext - For cleaning the data
+* Joblib - For exporting the model
+
+## Preview:
+https://emotion-classifier-f7wa.onrender.com/
