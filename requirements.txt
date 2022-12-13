@@ -1,0 +1,7 @@
+numpy
+pandas
+seborn
+neattext
+sklearn
+streamlit
+
