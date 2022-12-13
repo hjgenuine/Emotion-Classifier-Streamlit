@@ -1,7 +1,5 @@
-numpy
-pandas
-seaborn
-neattext
-sklearn
-streamlit
-
+joblib==1.2.0
+matplotlib==3.1.2
+numpy==1.17.4
+pandas==1.5.2
+streamlit==1.15.2
